@@ -9,7 +9,7 @@ I've been learning to code for 6 months, after switching careers. I have a keen 
 * 🌍  I'm based in Tunis
 * 🖥️  See my portfolio at [My portfolio](http://nacer-mediouni.netlify.app/)
 * ✉️  You can contact me at [nacer.mediouni@gmail.com](mailto:nacer.mediouni@gmail.com)
-* 🚀  I'm currently working on [AnimaLand](http://animalandapp.netlify.app/)
+* 🚀  I'm currently working on [Tayara](http://tayara.tn)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love to help others, in whatever way I can. I strive to protect and promote human rights related to the environment.
