@@ -1,18 +1,16 @@
-Hi 👋 My name is Nacer
+Hi 👋 This is Nacer
 ======================
 
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for 6 months, after switching careers. I have a keen interest in design and web development. I always thought that a good design can make a good idea even better and when I discovered how the code works on the web I realized that I can start creating things live on the internet, and you know what, I actually enjoyed it. Now I write cutting-edge, well-structured, and responsive code and I strive to improve my skills by learning new and recent technologies.
+I have a keen interest in design and web development. I always thought that a good design can make a good idea even better and when I discovered how the code works on the web I realized that I can start creating things live on the internet, and you know what, I actually enjoyed it. Now I write cutting-edge, well-structured, and responsive code and I strive to improve my skills by learning new and recent technologies.
 
 * 🌍  I'm based in Tunis
 * 🖥️  See my portfolio at [My portfolio](http://nacer-mediouni.netlify.app/)
 * ✉️  You can contact me at [nacer.mediouni@gmail.com](mailto:nacer.mediouni@gmail.com)
-* 🚀  I'm currently working on [Tayara](http://tayara.tn)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love to help others, in whatever way I can. I strive to protect and promote human rights related to the environment.
+* ⚡  I love to help others in whatever way I can.
 
 ### Skills
 
